@@ -52,7 +52,7 @@ const Services = () => {
   ];
 
   const handleOrder = (productName) => {
-    const phone = "2349044161321"; // CHANGE TO YOUR WHATSAPP NUMBER
+    const phone = "234 811 887 9057"; // CHANGE TO YOUR WHATSAPP NUMBER
 
     const message = `Hello, I want to place an order for ${productName}`;
 

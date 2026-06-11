@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <nav className="sticky top-0 bg-white shadow-md z-50 px-6 py-4 flex justify-between items-center">
-      <h1 className="font-bold text-xl text-blue-600">
+      <h1 className="font-bold text-xl text-blue-600 hover:text-red-600 cursor-pointer">
         ABSANBIZ Health Consultant
       </h1>
 

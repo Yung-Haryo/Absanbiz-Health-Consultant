@@ -28,7 +28,7 @@ const Footer = () => {
           <h2 className="text-xl font-semibold mb-4">Contact</h2>
           <p className="text-blue-100">📍 Lagos, Nigeria</p>
           <p className="text-blue-100">📞 +234 8027187984</p>
-          <p className="text-blue-100">✉ info@absanbiz.com</p>
+          <p className="text-blue-100">✉ qasmut2006@gmail.com</p>
         </div>
 
       </div>
